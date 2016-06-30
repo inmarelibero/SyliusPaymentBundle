@@ -28,7 +28,7 @@
     },
     "require-dev": {
         "phpspec/phpspec": "^2.4",
-        "doctrine/orm": "^2.4.8,<2.5"
+        "doctrine/orm": "2.*"
     },
     "config": {
         "bin-dir": "bin"
